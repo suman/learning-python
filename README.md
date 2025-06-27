@@ -1,2 +1,2 @@
 # lerning-python
-This repository contains my python learning
+This repository contains python learning
