@@ -104,6 +104,7 @@ def adjust_resource(coffee_type):
     else:
         resources["money"] = MENU[coffee_type]['cost']
 run_coffe_machine = True
+
 while run_coffe_machine:
     chose_coffee_type = input("What would you like? (espresso/latte/cappuccino):")
     if chose_coffee_type == 'off':
