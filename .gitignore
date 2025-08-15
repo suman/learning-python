@@ -2,3 +2,5 @@
 day18/.idea/
 day18/__pycache__/
 day18/main.py
+*.idea*
+
